@@ -72,12 +72,12 @@ p {
 }
 
 .bg1{
-    backgroumd: url('.img/pic1.jpg');
+    backgroumd: url('./image/pic1.jpg');
     color: #333
 }
 
 .bg2{
-    backgrounf: url('./img/pic2.jpg');
+    backgrounf: url('./image/pic2.jpg');
     color: #321
 }
 
